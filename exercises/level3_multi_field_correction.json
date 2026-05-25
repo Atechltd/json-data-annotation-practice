@@ -1,0 +1,29 @@
+{
+  "document_type": "invoice",
+  "invoice_number": "INV-2026-003",
+  "customer": "MultiFix Solutions Ltd",
+  "line_items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 250,
+      "line_total": 900
+    },
+    {
+      "description": "API Usage Package",
+      "quantity": 10,
+      "unit_price": 30,
+      "line_total": 300
+    },
+    {
+      "description": "Security Monitoring Service",
+      "quantity": 2,
+      "unit_price": 400,
+      "line_total": 800
+    }
+  ],
+  "subtotal": 2000,
+  "tax_rate": 10,
+  "tax_amount": 200,
+  "grand_total": 2100
+}
