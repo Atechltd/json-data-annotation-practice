@@ -1,0 +1,9 @@
+{
+  "invoice_number": "INV-2026-001",
+  "customer": "Test Company Ltd",
+  "quantity": 5,
+  "unit_price": 100,
+  "line_total": 400,
+  "tax_rate": 10,
+  "grand_total": 450
+}
