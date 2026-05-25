@@ -1,0 +1,8 @@
+{
+  "item": "Keyboard",
+  "quantity": 2,
+  "unit_price": 50,
+  "line_total": 80,
+  "tax_rate": 5,
+  "grand_total": 90
+}
